@@ -10,6 +10,7 @@
 
 My Top tec i work with:
 
-TypeScript - Angular
-Dart - Flutter
-Python - Django
+TypeScript - Angular/
+Dart - Flutter/
+Python - Django/
+Nodejs - ExpressJs
