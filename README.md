@@ -20,3 +20,6 @@
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heldersantiago&show_icons=true&theme=radical)
 
+## Enjoy yourself
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
