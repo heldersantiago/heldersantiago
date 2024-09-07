@@ -1,4 +1,4 @@
-### Hi there 👋 Here´s talking Helder Santiago
+## Hi there 👋 Here´s talking Helder Santiago
 
 - I’m currently learning JAVA and Spring Boot
 - I’m looking to collaborate on Any interesting project
@@ -7,10 +7,16 @@
 - Linked In: https://www.linkedin.com/in/helder-santiago-b5975727a/
 - Group: NEXUS - We Are Nexus
 - There is a saying that says: You Can Do Whatever You Want
+- 
+## My Technologies
+- Java - Spring Framework (Core, Boot, Security, Data)
+- TypeScript - (Angular and NestJs)
+- Flutter (Dart)
+- JavaScript/Nodejs - (ExpressJs)
 
-My Top tec i work with:
+## 🛠️ Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heldersantiago&layout=compact&theme=radical)
+ 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heldersantiago&show_icons=true&theme=radical)
 
-TypeScript - Angular/
-Dart - Flutter/
-Python - Django/
-Nodejs - ExpressJs
