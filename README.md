@@ -16,8 +16,6 @@
 
 ## 🛠️ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heldersantiago&layout=compact&theme=radical)
- 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heldersantiago&show_icons=true&theme=radical)
+
 
 
